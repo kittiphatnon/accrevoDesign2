@@ -1,0 +1,27 @@
+{
+  "name": "accrevodesign2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kittiphatnon/accrevoDesign2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kittiphatnon/accrevoDesign2/issues"
+  },
+  "homepage": "https://github.com/kittiphatnon/accrevoDesign2#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jspdf": "^2.5.1",
+    "nodemon": "^3.0.1",
+    "wordcut": "^0.9.1"
+  }
+}
